@@ -1,0 +1,22 @@
+{
+  "name": "gulper-sprites",
+  "version": "0.0.1",
+  "description": "A gulper plugin to load bower modules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/node-gulper-sprites.git"
+  },
+  "keywords": [
+    "gulper",
+    "gulp",
+    "sprites"
+  ],
+  "author": "Florian Albertz",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.1.5",
+    "css-sprite": "^0.7.0-beta3",
+    "gulp": "^3.8.7"
+  }
+}
